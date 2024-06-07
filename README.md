@@ -1,5 +1,8 @@
 ![Profile View](https://komarev.com/ghpvc/?username=CaoNhatLinh&style=flat-square)
-<h1 align="center"> 👋 Cao Nhat Linh<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 👋 Cao Nhat Linh</h1>
+============================
+Software Engineer 
+------------------------------------------------
 <p align="center">
    <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
 </p>
