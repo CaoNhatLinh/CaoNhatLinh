@@ -1,22 +1,21 @@
 ![Profile View](https://komarev.com/ghpvc/?username=CaoNhatLinh&style=flat-square)
-<h1 align="center"> 👋 Cao Nhat Linh</h1>
-============================
-Software Engineer 
-------------------------------------------------
+
+👋 Cao Nhat Linh - Software Engineer  <a href="https://www.linkedin.com/in/linh-cao-24577a252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/kam1213.2002" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  </a>
+=========================
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,cpp,cs,c,html,jquery,css,scss,bootstrap,nodejs,mongodb,mysql,linux,photoshop)](https://skillicons.dev)
 <p align="center">
    <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
 </p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/linh-cao-24577a252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
-  <a href="https://www.facebook.com/kam1213.2002" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
-  </a>
-  
-</div>
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=CaoNhatLinh&count_private=true&show_icons=true&theme=tokyonight" />
@@ -31,9 +30,6 @@ Software Engineer
   <img src="https://github.com/CaoNhatLinh/CaoNhatLinh/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,cpp,cs,c,html,jquery,css,scss,bootstrap,nodejs,mongodb,mysql,linux,photoshop)](https://skillicons.dev)
 
 ### Connect with me
 <a href = 'https://www.linkedin.com/in/CaoNhatLinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
