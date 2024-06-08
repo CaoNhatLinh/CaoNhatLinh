@@ -18,7 +18,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,cpp,cs,c,html,jquery,css,scss,bootstrap,nodejs,mongodb,mysql,linux,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,java,cpp,cs,php,html,jquery,css,scss,bootstrap,laravel,dotnet,firebase,flutter,nodejs,mongodb,mysql,linux,idea,photoshop)](https://skillicons.dev)
 <p align="center">
    <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
 </p>
