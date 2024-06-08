@@ -1,12 +1,20 @@
 ![Profile View](https://komarev.com/ghpvc/?username=CaoNhatLinh&style=flat-square)
 
-👋 Cao Nhat Linh - Software Engineer  <a href="https://www.linkedin.com/in/linh-cao-24577a252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/kam1213.2002" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
-  </a>
-=========================
+👋 Cao Nhat Linh - Software Engineer 
+----------------------------------------------------
+
+🎓 Soon about to graduate with a Bachelor of information technology degree in Software Engineering.
+
+* 🌍  I'm based in Ho Chi Minh City - Viet Nam
+* ✉️  You can contact me at [lingg@kamling.id.vn](mailto:lingg@kamling.id.vn) or [caonhatlinh1312@gmail.com](mailto:caonhatlinh1312@gmail.com)
+* 🚀  I'm currently  learning ...
+* 🧠  I'm learning java,fulter
+* 🤝  I'm open to collaborating on community service projects
+
+### Connect with me
+<a href = 'https://www.linkedin.com/in/CaoNhatLinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/CaoNhatLinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.facebook.com/kam1213.2002'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
 
 ### Skills
 
@@ -26,14 +34,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CaoNhatLinh&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
-<p align="center">
-  <img src="https://github.com/CaoNhatLinh/CaoNhatLinh/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 
-### Connect with me
-<a href = 'https://www.linkedin.com/in/CaoNhatLinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://github.com/CaoNhatLinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://www.facebook.com/kam1213.2002'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
+
 
 <br/>
