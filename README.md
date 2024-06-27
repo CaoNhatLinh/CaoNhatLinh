@@ -1,6 +1,6 @@
 ![Profile View](https://komarev.com/ghpvc/?username=CaoNhatLinh&style=flat-square)
 
-👋 Cao Nhat Linh - Software Engineer 
+<h1 align="center"> 👋 Cao Nhat Linh - Software Engineer </h1>
 ----------------------------------------------------
 
 🎓 About to graduate with a Bachelor of Information Technology majoring in Software Engineering.
@@ -31,7 +31,7 @@
 <img  height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CaoNhatLinh&theme=tokyonight&hide_border=true&mode=weekly" />
 </div>
 
-### About me
+### Trophy
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CaoNhatLinh&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="800px"/></a></p>
 
