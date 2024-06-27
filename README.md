@@ -1,7 +1,6 @@
 ![Profile View](https://komarev.com/ghpvc/?username=CaoNhatLinh&style=flat-square)
 
 <h1 align="center"> 👋 Cao Nhat Linh - Software Engineer </h1>
-----------------------------------------------------
 
 🎓 About to graduate with a Bachelor of Information Technology majoring in Software Engineering.
 
@@ -10,7 +9,7 @@
 * 🚀  I'm currently  learning ...
 * 🧠  I'm learning Spring boot, Flutter
 * 🤝  I'm open to collaborating on community service projects
-
+--- 
 ### Connect with me
 <a href = 'https://www.linkedin.com/in/linh-cao-24577a252'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/CaoNhatLinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
