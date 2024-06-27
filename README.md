@@ -24,18 +24,15 @@
 </p>
 
 
-
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=CaoNhatLinh&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoNhatLinh&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
+### Badges
+<div style="display:flex;justify-content: space-between;"> 
+<img  height="150px" width="320px" src="https://github-readme-stats.vercel.app/api?username=CaoNhatLinh&count_private=true&show_icons=true&theme=tokyonight" />
+<img  height="150px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoNhatLinh&layout=compact&theme=aura&langs_count=9" />
+<img  height="150px" width="320px" src="https://github-readme-streak-stats.herokuapp.com/?user=CaoNhatLinh&theme=tokyonight&hide_border=true&mode=weekly" />
+</div>
 
 ### About me
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CaoNhatLinh&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CaoNhatLinh&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a></p>
 
 
-
-
-
-<br/>
