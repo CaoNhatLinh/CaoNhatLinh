@@ -26,7 +26,7 @@
 ### Badges
 <div style="display:flex;justify-content: space-between;"> 
 <img  height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=CaoNhatLinh&count_private=true&show_icons=true&theme=tokyonight" />
-<img  height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoNhatLinh&layout=compact&theme=aura&langs_count=9" />
+<img  height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoNhatLinh&layout=compact&theme=tokyonight"&langs_count=9" />
 <img  height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CaoNhatLinh&theme=tokyonight&hide_border=true&mode=weekly" />
 </div>
 
