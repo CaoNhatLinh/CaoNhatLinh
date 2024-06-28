@@ -24,12 +24,13 @@
 
 
 ### Badges
-<div style="display:grid;grid-template-columns: auto auto;grid-gap: 30px;grid-template-columns: auto auto;"> 
+<div style="display:grid;grid-template-columns: auto auto;"> 
 <img  height="200px" src="https://github-readme-stats.vercel.app/api?username=CaoNhatLinh&count_private=true&show_icons=true&theme=tokyonight" />
-<img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoNhatLinh&layout=compact&theme=tokyonight"&langs_count=9" />
-<img  height="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=CaoNhatLinh&theme=tokyonight&hide_border=true&mode=weekly" />
+<img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoNhatLinh&layout=compact&theme=tokyonight&langs_count=9" />
+<img  height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CaoNhatLinh&theme=tokyonight&hide_border=true&mode=weekly" />
 <img  height="100%" src="https://leetcard.jacoblin.cool/CaoNhatLinh?border=0&theme=dark" />
 </div>
+</br>
 
 ### Trophy
 
