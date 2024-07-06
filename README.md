@@ -1,13 +1,13 @@
 ![Profile View](https://komarev.com/ghpvc/?username=CaoNhatLinh&style=flat-square)
 
-<h1 align="center"> 👋 Cao Nhat Linh - Software Engineer </h1>
+<h1 align="center"> 👋 Cao Nhat Linh - mobile developer </h1>
 
 🎓 About to graduate with a Bachelor of Information Technology majoring in Software Engineering.
 
 * 🌍  I'm based in Ho Chi Minh City - Viet Nam
 * ✉️  You can contact me at [lingg@kamling.id.vn](mailto:lingg@kamling.id.vn) or [caonhatlinh1312@gmail.com](mailto:caonhatlinh1312@gmail.com)
 * 🚀  I'm currently  learning ...
-* 🧠  I'm learning react-native,kotlin, Flutter
+* 🧠  I'm learning React-native, Kotlin, Flutter
 * 🤝  I'm open to collaborating on community service projects
 --- 
 ### Connect with me
