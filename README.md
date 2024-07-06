@@ -1,6 +1,6 @@
 ![Profile View](https://komarev.com/ghpvc/?username=CaoNhatLinh&style=flat-square)
 
-<h1 align="center"> 👋 Cao Nhat Linh - mobile developer </h1>
+<h1 align="center"> 👋 Cao Nhat Linh - Mobile Developer </h1>
 
 🎓 About to graduate with a Bachelor of Information Technology majoring in Software Engineering.
 
