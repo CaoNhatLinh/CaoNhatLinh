@@ -7,7 +7,7 @@
 * 🌍  I'm based in Ho Chi Minh City - Viet Nam
 * ✉️  You can contact me at [lingg@kamling.id.vn](mailto:lingg@kamling.id.vn) or [caonhatlinh1312@gmail.com](mailto:caonhatlinh1312@gmail.com)
 * 🚀  I'm currently  learning ...
-* 🧠  I'm learning Spring boot, Flutter
+* 🧠  I'm learning react-native,kotlin, Flutter
 * 🤝  I'm open to collaborating on community service projects
 --- 
 ### Connect with me
@@ -17,7 +17,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,java,cpp,cs,php,html,jquery,css,scss,bootstrap,laravel,dotnet,firebase,flutter,nodejs,mongodb,mysql,linux,idea,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,cpp,cs,php,html,jquery,css,scss,bootstrap,laravel,dotnet,npm,firebase,flutter,nodejs,mongodb,mysql,linux,idea,git,photoshop)](https://skillicons.dev)
 <p align="center">
    <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
 </p>
