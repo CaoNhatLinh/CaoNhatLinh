@@ -18,9 +18,7 @@
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,cpp,cs,php,html,jquery,css,scss,bootstrap,laravel,dotnet,npm,firebase,flutter,nodejs,mongodb,mysql,linux,idea,git,photoshop)](https://skillicons.dev)
-<p align="center">
-   <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
-</p>
+
 
 
 ### Badges
