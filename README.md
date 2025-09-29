@@ -2,6 +2,7 @@
 
 <h1 align="center"> 👋 Cao Nhat Linh - Mobile Developer </h1>
 
+
 🎓 About to graduate with a Bachelor of Information Technology majoring in Software Engineering.
 
 * 🌍  I'm based in Ho Chi Minh City - Viet Nam
