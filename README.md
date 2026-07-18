@@ -26,13 +26,13 @@ Software Engineer focused on backend systems, scalable web applications, and sof
 Java • JavaScript • TypeScript • C++ • C# • PHP
 
 ### Frontend
-React • React Native • HTML5 • CSS3 • SCSS • Bootstrap • jQuery
+React • React Native • HTML5 • CSS3 • SCSS • Bootstrap • jQuery • TailwindCss
 
 ### Backend
-Node.js • Express.js • Laravel • .NET • Firebase
+Node.js • Express.js • Laravel • .NET • Spring
 
 ### Databases
-MySQL • PostgreSQL • MongoDB • Cassandra
+FireBase • MySQL • PostgreSQL • MongoDB • Cassandra
 
 ### API & Testing
 REST API • Postman • API Testing • Integration Testing
